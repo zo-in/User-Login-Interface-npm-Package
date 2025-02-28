@@ -49,7 +49,3 @@ export default App;
 | POST   | `/auth/verify-otp` | OTP verification    |
 | GET    | `/users/profile`   | Fetch user profile  |
 | DELETE | `/users/account`   | Delete user account |
-
-## 📄 License
-
-MIT
