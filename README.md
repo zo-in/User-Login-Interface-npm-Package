@@ -2,7 +2,7 @@
 
 A modular authentication system providing both **backend (Express, MongoDB)** and **frontend (React, Tailwind CSS)** authentication components.
 
-## 📦 Packages
+## 📦 NPM Package Links
 
 - 🛠 **Backend:** [uli-auth-backend](https://www.npmjs.com/package/uli-auth-backend)
 - 🎨 **Frontend:** [uli-auth-frontend](https://www.npmjs.com/package/uli-auth-frontend)
